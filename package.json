@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cowsay": "^1.4.0",
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.5"
   }
 }
